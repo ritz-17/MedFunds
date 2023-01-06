@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedFunds</string>
+    <string name="next">NEXT</string>
+    <string name="connect_your_crypto_wallet">CONNECT YOUR CRYPTO WALLET</string>
+    <string name="raise_medical_funds">RAISE MEDICAL FUNDS</string>
+    <string name="donate_to_medical_funds">DONATE TO MEDICAL FUNDS</string>
+    <string name="contact_us_for_help">CONTACT US FOR HELP</string>
+    <string name="ready">READY!</string>
+</resources>
